@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaureZammit
 - 👀 I’m interested in Front and Back
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on HTML, CSS and JS
+- 💞️ I’m looking to collaborate on HTML, CSS, JS and Python
 
 <!---
 LaureZammit/LaureZammit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
