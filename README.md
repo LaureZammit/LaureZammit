@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Laure Zammit and I'm a developer from France.</h1>
+<h1 align="left">Hi 👋! My name is Laure Zammit and I'm a developer in training from France.</h1>
 
 - 👀 I’m interested in Front and Back
 - 🌱 I’m currently learning JavaScript, PHP, Wordpress
