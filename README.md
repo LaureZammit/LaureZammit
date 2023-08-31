@@ -99,3 +99,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
   <img width="12" />
 </div>
+
+## Thanks
+
+Thanks to [Anurag Hazra](https://github.com/anuraghazra) for Profile Readme Template
