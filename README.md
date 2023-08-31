@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Front and Back
 - 🌱 I’m currently learning JavaScript, PHP, Wordpress
-- 💞️ I’m looking to collaborate on HTML, CSS, JS and Python
+- 💞️ I’m looking to collaborate on HTML, CSS, JS, Python, PHP
 
 <h2 align="center">Hello World!!</h2>
 
