@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning JavaScript, PHP, Wordpress, MySQL, React, C
 - 🔭 I’m currently working on HTML, CSS & SCSS, Python
+- 💪 I'm currently developping an habit tracker website called GoalTrackR to increase my skills
 
 - 💞️ I’m looking to collaborate on HTML, CSS, JS, Python, PHP
 
@@ -35,27 +36,27 @@
 
 ##
 
-<img align="right" height="250" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"  />
+<img align="right" height="450" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"  />
 
 <h2 align="center"> Skills </h2>
 
-<div align="left">
-  <h3>Front-end</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-</div>
-
-<div align="left">
-  <h3>Front & Back</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-</div>
+  <div align="left">
+    <h3>Front-end</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+    <img width="12" />
+  </div>
+  
+  <div align="left">
+    <h3>Front & Back</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+    <img width="12" />
+  </div>
 
 <div align="left">
   <h3>Back-end</h3>
@@ -100,6 +101,7 @@
   <img width="12" />
 </div>
 
-## Thanks
+##
 
+## Thanks
 Thanks to [Anurag Hazra](https://github.com/anuraghazra) for Profile Readme Template
