@@ -38,7 +38,8 @@
 <div align="center">
 
   | <a href="https://github.com/LaureZammit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LaureZammit&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Laure's github stats" /></a> | <a href="https://github.com/LaureZammit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaureZammit&layout=compact&theme=buefy&hide_border=true" /></a> |
-  
+| ------------- | ------------- |
+
 </div>
 
 ##
