@@ -36,7 +36,11 @@
 
 <h2 align="center">Visitor counter</h2>
 
-![Visitor Count](https://profile-counter.glitch.me/{LaureZammit}/count.svg)
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/{LaureZammit}/count.svg)
+
+</div>
 
 <h2 align="center"> Data </h2>
 
