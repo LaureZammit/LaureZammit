@@ -33,6 +33,11 @@
   </a>
 </div>
 
+
+<h2 align="center">Visitor counter</h2>
+
+![Visitor Count](https://profile-counter.glitch.me/{LaureZammit}/count.svg)
+
 <h2 align="center"> Data </h2>
 
 <div align="center">
