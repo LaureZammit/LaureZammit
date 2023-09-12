@@ -1,4 +1,4 @@
-<img src=".github/workflows/GitHub.png" width="100%" alt="linkedin logo"  />
+<img src=".github/workflows/plant.jpg" width="100%" alt="linkedin logo"  />
 
 <h1 align="left">Hi 👋! My name is Laure Zammit and I'm a developer in training from France.</h1>
 
