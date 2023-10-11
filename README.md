@@ -80,7 +80,7 @@
   
   GeniArtHub - [JavaScript](https://github.com/LaureZammit/Geniarthub-js)
 
-  La Presse à Mots - [JavaScript](https://github.com/LaureZammit/CMS-php)
+  La Presse à Mots - [PHP](https://github.com/LaureZammit/CMS-php)
 
   Tic Tac Toe - [JavaScript](https://github.com/LaureZammit/TicTacToe-js)
 
