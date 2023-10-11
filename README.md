@@ -8,11 +8,11 @@
   
 - 👀 I’m interested in every type of web development
 
-- 🌱 I’m currently learning JavaScript, PHP, Wordpress, MySQL, React, C
-- 🔭 I’m currently working on HTML, CSS & SCSS, Python
+- 🌱 I’m currently learning C
+- 🔭 I’m currently working and learning HTML, CSS & SCSS, JavaScript, React, PHP, MySQL, Python, Wordpress
 - 💪 I'm currently developping an habit tracker website called GoalTrackR to increase my skills
 
-- 🤝 I’m looking to collaborate on HTML, CSS, JS, Python, PHP
+- 🤝 I’m looking to collaborate on Every type of languages I know and I don't know yet
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
